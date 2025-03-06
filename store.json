@@ -1,0 +1,115 @@
+{
+  "store": "Your Store Name",
+  "categories": [
+    {
+      "name": "Beverages",
+      "products": [
+        {
+          "name": "Pepsi",
+          "type": "Soda",
+          "flavors": ["Original", "Vanilla", "Cherry"],
+          "price": 1.99,
+          "quantity": 100
+        },
+        {
+          "name": "MountainDew",
+          "type": "Soda",
+          "flavors": ["Regular", "CodeRed", "CitrusBlast"],
+          "price": 2.49,
+          "quantity": 80
+        },
+        {
+          "name": "Sprite",
+          "type": "Soda",
+          "flavors": ["Lemon-Lime", "Cranberry", "Ginger"],
+          "price": 1.79,
+          "quantity": 120
+        },
+        {
+          "name": "CocaCola",
+          "type": "Soda",
+          "flavors": ["Classic", "ZeroSugar", "Cherry"],
+          "price": 2.29,
+          "quantity": 90
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "products": [
+        {
+          "name": "LaysClassic",
+          "type": "PotatoChips",
+          "quantity": 120,
+          "price": 1.79
+        },
+        {
+          "name": "Doritos",
+          "type": "TortillaChips",
+          "flavors": ["CoolRanch", "NachoCheese", "SpicySweetChili"],
+          "quantity": 90,
+          "price": 2.29
+        },
+        {
+          "name": "Popcorn",
+          "type": "Snack",
+          "flavors": ["Butter", "Cheese", "Caramel"],
+          "quantity": 100,
+          "price": 1.99
+        },
+        {
+          "name": "Pretzels",
+          "type": "Snack",
+          "flavors": ["Classic", "HoneyMustard", "Salted"],
+          "quantity": 80,
+          "price": 2.49
+        },
+        {
+          "name": "GranolaBars",
+          "type": "Snack",
+          "variations": ["ChocolateChip", "Almond", "MixedBerry"],
+          "quantity": 70,
+          "price": 1.99
+        }
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "products": [
+        {
+          "name": "QuakerOats",
+          "type": "Oatmeal",
+          "variations": ["Instant", "SteelCut"],
+          "quantity": 50,
+          "price": 3.99
+        },
+        {
+          "name": "TropicanaOrangeJuice",
+          "type": "FruitJuice",
+          "flavors": ["Original", "NoPulp", "CalciumVitaminD"],
+          "quantity": 70,
+          "price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "DairyProducts",
+      "products": [
+        {
+          "name": "Milk",
+          "type": "Dairy",
+          "variations": ["Whole", "Skimmed", "2%"],
+          "quantity": 60,
+          "price": 1.99
+        },
+        {
+          "name": "Cheese",
+          "type": "Dairy",
+          "flavors": ["Cheddar", "Swiss", "Gouda"],
+          "quantity": 40,
+          "price": 3.49
+        }
+      ]
+    }
+  ]
+}
